@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HearAPI", "HearAPI\HearAPI.csproj", "{D4578325-A597-41BB-A1E5-1EFF0B220D8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4578325-A597-41BB-A1E5-1EFF0B220D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4578325-A597-41BB-A1E5-1EFF0B220D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4578325-A597-41BB-A1E5-1EFF0B220D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4578325-A597-41BB-A1E5-1EFF0B220D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD67F5AE-9FC6-47B7-952C-E48A1F7E7BA5}
+	EndGlobalSection
+EndGlobal
